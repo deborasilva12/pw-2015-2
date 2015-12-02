@@ -1,9 +1,9 @@
 <html>
 <head>
-	<title>Meu primeiro programa em HTML</title>
-	<meta charset="utf-8">
+	<title>Primeiro programa em HTML</title>
 </head>
 <body>
-<h2>Consegui! AMEM! Foi? </h2>
+<h2>Foi?</h2>
 </body>
+	<footer>Acabou!</footer>
 </html>
