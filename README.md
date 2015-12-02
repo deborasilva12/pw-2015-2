@@ -1,1 +1,1 @@
-# Meu primeiro programa em HTML. :D
+# Meu primeiro programa em HTML :D
